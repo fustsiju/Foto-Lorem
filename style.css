@@ -12,7 +12,8 @@ body {
   .portrait {
     font-size: 10px;
     line-height: 10px;
-    background: url('https://thumbs2.imgbox.com/30/36/6KmGfRCR_t.png') fixed center no-repeat;
+    //background: url('https://thumbs2.imgbox.com/30/36/6KmGfRCR_t.png') fixed center no-repeat;
+      background: url('https://pbs.twimg.com/media/EmP-I83VgAQqdL_.jpg') fixed center no-repeat;
     background-size: contain;
   }
   .portrait {
